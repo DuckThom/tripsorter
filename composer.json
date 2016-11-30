@@ -1,0 +1,20 @@
+{
+    "name": "luna/tripsorter",
+    "description": "Trip sorter",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thomas Wiringa",
+            "email": "thomas.wiringa@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "app/helpers.php"
+        ]
+    }
+}

@@ -1,0 +1,6 @@
+[
+  {"from": "Barcelona", "to": "Gerona Airport", "transport": "airport bus", "seat": null},
+  {"from": "Stockholm", "to": "New York JFK", "transport": "plane", "seat": "7B", "extra": {"gate": "22", "baggage": "auto"}},
+  {"from": "Gerona Airport", "to": "Stockholm", "transport": "plane", "seat": "3A", "extra": {"gate": "45B", "baggage": "344"}},
+  {"from": "Madrid", "to": "Barcelona", "transport": "train", "seat": "45B"}
+]
